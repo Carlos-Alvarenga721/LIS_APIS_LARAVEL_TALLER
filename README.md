@@ -21,10 +21,9 @@
  
       Lunes 15 de abril de 2024
       
- **LINK DEL VIDEO EXPLICATIVO DEL PROYECTO:**
- 
+ **LINK DEL VIDEO EXPLICATIVO DEL CODIGO USANDO APIS:**
+ https://www.youtube.com/watch?v=o8p0ZnZRkCM
 
 **LINK DE LA INFOGRAFIA:**
  https://www.canva.com/design/DAFQqQtEvco/9Vggg7seD2jdDTwNy-GZww/edit?utm_content=DAFQqQtEvco&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
  
-En este repositorio de Github se muestra la creacion de APIS las cuales realizan acciones que estan entre la interfaz y el backend
