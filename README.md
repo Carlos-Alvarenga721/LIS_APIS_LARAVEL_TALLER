@@ -26,3 +26,7 @@
 
 *LINK DE LA INFOGRAFIA:*
  https://www.canva.com/design/DAFQqQtEvco/9Vggg7seD2jdDTwNy-GZww/edit?utm_content=DAFQqQtEvco&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+ *PDF DEL TRABAJO*
+ [INVESTIGACION APLICADA LIS_LARAVEL.pdf](https://github.com/Carlos-Alvarenga721/LIS_APIS_LARAVEL_TALLER/files/15045081/INVESTIGACION.APLICADA.LIS_LARAVEL.pdf)
+
